@@ -17,3 +17,6 @@ $ git push origin master
 More commands
 $ git lfs track
 $ git lfs ls-files
+
+Advantage-of-git-lfs
+http://stackoverflow.com/questions/35575400/what-is-the-advantage-of-git-lfs
