@@ -13,3 +13,7 @@ $ git commit -a -m "git lfs filterring all *.jpg files"
 $ git add img/napat1.jpg
 $ git commit -m "Add new image"
 $ git push origin master
+
+More commands
+$ git lfs track
+$ git lfs ls-files
