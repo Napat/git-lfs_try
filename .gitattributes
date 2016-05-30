@@ -1,1 +1,2 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
+img/napat1.jpg filter=lfs diff=lfs merge=lfs -text
