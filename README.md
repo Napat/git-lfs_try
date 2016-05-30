@@ -2,8 +2,7 @@
 
 --- UBUNTU ---
 $ sudo apt-get install git
-$ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | \
-  sudo bash
+$ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 $ sudo apt-get install git-lfs
 
 
@@ -34,14 +33,8 @@ $ git lfs ls-files
 Git clean filter that converts large files to pointers.
 $ git lfs clean		
 
-
-*** git clone will not pull lfs files to your workspace.
-To get lfs files at any commit then use
+To get lfs files reference to commit
 $ git lfs pull
-
-*** To clone with all lfs files then
-$ git lfs clone <url>
-
 
 
 More info
