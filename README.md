@@ -1,4 +1,12 @@
 # git-lft_try
+
+--- UBUNTU ---
+$ sudo apt-get install git
+$ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | \
+  sudo bash
+$ sudo apt-get install git-lfs
+
+
 Try git-lfs
 
 1.Get git-lfs client from https://git-lfs.github.com and first settup with
